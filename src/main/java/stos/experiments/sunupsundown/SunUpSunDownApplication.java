@@ -9,5 +9,4 @@ public class SunUpSunDownApplication {
     public static void main(String[] args) {
         SpringApplication.run(SunUpSunDownApplication.class, args);
     }
-
 }
